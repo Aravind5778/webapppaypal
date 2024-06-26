@@ -24,6 +24,7 @@
     <artifactId>webapppaypal</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>azkarra-quickstart-java</name>
     <description>Simple Azkarra Streams project</description>
